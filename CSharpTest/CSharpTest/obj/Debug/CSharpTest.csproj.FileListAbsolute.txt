@@ -1,0 +1,7 @@
+E:\John Private\CSharpTest\CSharpTest\bin\Debug\CSharpTest.exe.config
+E:\John Private\CodeWarStudy\CSharpTest\CSharpTest\bin\Debug\CSharpTest.exe.config
+E:\John Private\CodeWarStudy\CSharpTest\CSharpTest\obj\Debug\CSharpTest.csprojResolveAssemblyReference.cache
+E:\John Private\CodeWarStudy\CSharpTest\CSharpTest\bin\Debug\CSharpTest.exe
+E:\John Private\CodeWarStudy\CSharpTest\CSharpTest\bin\Debug\CSharpTest.pdb
+E:\John Private\CodeWarStudy\CSharpTest\CSharpTest\obj\Debug\CSharpTest.exe
+E:\John Private\CodeWarStudy\CSharpTest\CSharpTest\obj\Debug\CSharpTest.pdb
